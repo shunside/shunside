@@ -31,6 +31,6 @@ Even if it’s just to bounce ideas around, get some feedback, or have a quick c
 <!--- - Freelance / Portfolio: [Fiverr / Portfolio Link](https://your-fiverr-or-portfolio-link.com) -->
 
 
-About my background? Let’s just say most of my learning happened outside classrooms (hints: internet, forums, YouTube, a dash of ChatGPT). Formal studies are on the horizon, so the story continues.  
+About my background? Let’s just say most of my learning happened outside classrooms (hints: internet, forums, YouTube, a dash of AI). Formal studies are on the horizon, so the story continues.  
 
 Always up for chatting about tech, exchanging ideas, or figuring out ways to make stuff actually work.
