@@ -27,7 +27,7 @@ Even if it’s just to bounce ideas around, get some feedback, or have a quick c
 
 ## Say Hi / Freelance
 
-- Discord: [imnotdc]
+- Discord: `imnotdc`
 <!--- - Freelance / Portfolio: [Fiverr / Portfolio Link](https://your-fiverr-or-portfolio-link.com) -->
 
 
