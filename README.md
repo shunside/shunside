@@ -4,7 +4,7 @@ Five years of writing code. Still here, somehow. I build things for the web and 
 
 Currently working on a private, social-ish project using a few of the technological contraptions listed below, which may or may not ever see the light of day.
 
----
+-----
 
 ## 🛠 Stack & Deficiencies
 
