@@ -1,4 +1,4 @@
-# Welcome. Or don't.
+# Yo
 
 Five years of writing code. Still here, somehow. I build things for the web and desktop when something forces me to.
 
